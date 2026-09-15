@@ -1,0 +1,6 @@
+5
+Omar Hassan 87654321 Cardiology 15 120000 0.10
+Layla Ahmed 11223344 Neurology 8 100000 0.08
+Youssef Karim 55667788 Pediatrics 12 110000 0.09
+Fatima Noor 99887766 Surgery 20 150000 0.15
+Khalid Malik 66778899 General 5 90000 0.05
